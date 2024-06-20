@@ -1,0 +1,2 @@
+Learning The Odin Project!
+First time using Git
